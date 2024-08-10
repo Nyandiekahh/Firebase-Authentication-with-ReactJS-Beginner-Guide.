@@ -1,4 +1,5 @@
-![alt text](image.png)# Firebase Authentication with ReactJS - Beginner's Guide
+![alt text](image.png)
+# Firebase Authentication with ReactJS - Beginner's Guide
 
 Welcome to the Firebase Authentication with ReactJS Beginner's Guide! This project demonstrates how to integrate Firebase email link authentication into a React application. Follow this guide to set up Firebase authentication, send login links to users, and handle sign-in with email links.
 
